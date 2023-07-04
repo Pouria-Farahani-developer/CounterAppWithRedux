@@ -10,8 +10,6 @@ https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991
 
 ![counter](https://github.com/Pouria-Farahani-developer/CounterAppWithRedux/assets/109727844/8d15299f-5792-4b56-948e-4d452c2e151c)
 
-⚡ Be sure to turn on your VPN to view users' images
-
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/CounterAppWithRedux/)
 
 - 👨‍💻 Developed by pouria farahani
