@@ -1,6 +1,6 @@
 # Counter With Redux
 
-💵 **Count your steps faster with Redux**
+🏃‍♂️ **Count your steps faster with Redux**
 <!-- <p>&nbsp;</p>
 <h3 align="center"> ☃ Help view the site </h3>
 
