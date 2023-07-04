@@ -8,15 +8,7 @@ https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991
  
 <h3 align="center"> 📸 Gallery </h3>
 
-![Main](https://user-images.githubusercontent.com/109727844/215094697-5f2e54f9-8095-4b9e-bb75-28d316f31fd6.jpg)
-
-![list](https://user-images.githubusercontent.com/109727844/215095165-277f23e3-c5f4-460d-8ea6-1a673e90f33d.jpg)
-
-![profile](https://user-images.githubusercontent.com/109727844/215095551-3aff74e6-b74b-41ab-8c9e-c32f0819f8b1.jpg)
-
-![New](https://user-images.githubusercontent.com/109727844/215096132-7c6d2b35-411a-4945-bb3a-d38238f50d34.jpg)
-
-![dark](https://user-images.githubusercontent.com/109727844/215096554-4e9f1b72-c4f5-425d-85a2-959f03fc57e1.jpg)
+![counter](https://github.com/Pouria-Farahani-developer/CounterAppWithRedux/assets/109727844/8d15299f-5792-4b56-948e-4d452c2e151c)
 
 ⚡ Be sure to turn on your VPN to view users' images
 
